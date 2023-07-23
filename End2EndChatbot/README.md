@@ -100,9 +100,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@your_twitter](https://twitter.com/your_username) - alejandro.dominguez.a@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/AdominguezUY/AI-Projects/tree/main/End2EndChatbot](https://github.com/AdominguezUY/AI-Projects/tree/main/End2EndChatbot)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
